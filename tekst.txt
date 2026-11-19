@@ -1,1 +1,1 @@
-dit is de tekst voor de eerste commit.
+dit is de tekst voor de eerste commit. En dit is de tweede commit.
